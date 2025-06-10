@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sheetal Dave</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img  align ="right" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" />
-
+<img align="right"  src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="400px" />
+<!-- <img  align ="right" style="margin-top:10" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif"  width="300px" height="300px" />
+ -->
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **sheetaldave0312@gmail.com**
