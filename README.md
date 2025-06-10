@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sheetal Dave</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img  align ="right" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="500px"/>
+<img  align ="right" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" />
 
 - 🌱 I’m currently learning **Full Stack Development**
 
