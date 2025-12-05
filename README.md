@@ -2,9 +2,9 @@
 
 <!-- about me-->
 <div>
- <img align="right"  src="https://tse3.mm.bing.net/th/id/OIP.ZbOF7BQIgjwEwCz3w80lbgAAAA?pid=Api&P=0&h=180" width="400px" />
+ <img align="left"  src="https://tse3.mm.bing.net/th/id/OIP.ZbOF7BQIgjwEwCz3w80lbgAAAA?pid=Api&P=0&h=180" width="20px" />About me
 
- <div style="border:"2px solid white""></div>
+ <div style="border: 2px solid white;"></div>
 <h3 align="center">A passionate frontend  and backend developer </h3>
 <img align="right"  src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="400px" />
 <!-- <img  align ="right" style="margin-top:10" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif"  width="300px" height="300px" />
