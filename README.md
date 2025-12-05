@@ -2,7 +2,7 @@
 <hr/>
 <!-- about me-->
 <div>
- <img align="left"  src="https://tse1.mm.bing.net/th/id/OIP.g4L-MhI1JWjh4Uw0irNZWAHaHa?pid=Api&rs=1&c=1&qlt=95&w=121&h=121" width="40px" /> <span style="font-size:"50px"">About me</span><hr/>
+ <img align="left"  src="https://tse1.mm.bing.net/th/id/OIP.g4L-MhI1JWjh4Uw0irNZWAHaHa?pid=Api&rs=1&c=1&qlt=95&w=121&h=121" width="40px" /> <span style="font-size:"150px"">About me</span><hr/>
 
 <h3 align="center">A passionate frontend  and backend developer </h3>
 <img align="right"  src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="400px" />
