@@ -8,14 +8,12 @@
  <img align="right"  src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="400px" />
 
 <h3 align="center">⚡ sheetal dave...  —a developer who codes with logic and designs with motion.
-I live in dark terminals, breathe semicolons, and dream in animations.
+I live in dark terminals, breathe semicolons, and dream in animations.<h3/>
 <ul>🎯 My Universe:
- <li>⚙️ C / C++ / DSA — where I sharpen logic like a blade.</li>
-  <li>🎨 GSAP / Frontend — where I make pixels dance.</li>
- <li>🧩 Problem Solving — because bugs fear me.
-</li>
- <li>☕ Motto → "Code hard, Animate harder."
-</li>
+<li>⚙️ C / C++ / DSA — where I sharpen logic like a blade.</li>
+ <li>🎨 GSAP / Frontend — where I make pixels dance.</li>
+ <li>🧩 Problem Solving — because bugs fear me.</li>
+ <li>☕ Motto → "Code hard, Animate harder."</li>
 <ul/>
 
 
