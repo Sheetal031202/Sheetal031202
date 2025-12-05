@@ -5,7 +5,8 @@
 <!-- about me-->
 <div>
  <img align="left"  src="https://tse1.mm.bing.net/th/id/OIP.g4L-MhI1JWjh4Uw0irNZWAHaHa?pid=Api&rs=1&c=1&qlt=95&w=121&h=121" width="40px" /> <span style="font-size:"150px"">About me</span><hr/>
- 
+ <img align="right"  src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="400px" />
+
 <h3 align="center">⚡ sheetal dave...  —a developer who codes with logic and designs with motion.
 I live in dark terminals, breathe semicolons, and dream in animations.
 <ul>🎯 My Universe:
@@ -17,8 +18,8 @@ I live in dark terminals, breathe semicolons, and dream in animations.
 </li>
 <ul/>
 
-<img align="right"  src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="400px" />
 
+<div/>
 
 
 <h3 align="left">Connect with me:</h3>
