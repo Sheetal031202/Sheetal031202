@@ -2,8 +2,8 @@
 
 <!-- about me-->
 <div>
- 
- <img src="https://tse3.mm.bing.net/th/id/OIP.ZbOF7BQIgjwEwCz3w80lbgAAAA?pid=Api&P=0&h=180" width:"20px"/>About me
+ <img align="right"  src="https://tse3.mm.bing.net/th/id/OIP.ZbOF7BQIgjwEwCz3w80lbgAAAA?pid=Api&P=0&h=180" width="400px" />
+
  <div style="border:"2px solid white""></div>
 <h3 align="center">A passionate frontend  and backend developer </h3>
 <img align="right"  src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="400px" />
