@@ -43,12 +43,7 @@
          height="30" width="40" />
   </a>
 
-  <!-- Email -->
-  <a href="sheetaldave0312@gmail.com" target="_blank">
-    <img align="center" 
-         src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
-         height="30" width="40" />
-  </a>
+  
 </p>
 
 <hr/>
