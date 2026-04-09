@@ -16,7 +16,7 @@
 
   <!-- Portfolio Link FIXED -->
   <h3 align="center">
-    🌐 <a href="https://my-portfolio-rouge-two-99.vercel.app/" target="_blank">
+    🌐     <a href="https://my-portfolio-rouge-two-99.vercel.app/" target="_blank" rel="noopener noreferrer">
       Visit My Portfolio
     </a>
   </h3>
