@@ -16,7 +16,7 @@
 
   <!-- Portfolio Link FIXED -->
   <h3 align="center">
-    🌐 <a href="https://starlit-caramel-419270.netlify.app/" target="_blank">
+    🌐 <a href="https://my-portfolio-rouge-two-99.vercel.app/" target="_blank">
       Visit My Portfolio
     </a>
   </h3>
